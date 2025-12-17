@@ -54,6 +54,13 @@
 			"value": "kqwqks@gmail.com",
 			"label": "",
 			"order": 1
+		},
+		{
+			"id": "button-1765955818512",
+			"type": "link",
+			"value": "https://kqwqk.afilmory.art/",
+			"label": "Afilmory",
+			"order": 3
 		}
 	],
 	"clockShowSeconds": false,
