@@ -42,13 +42,6 @@
 	"currentBackgroundImageId": "",
 	"socialButtons": [
 		{
-			"id": "github",
-			"type": "github",
-			"value": "https://github.com/kqwqk",
-			"label": "Github",
-			"order": 3
-		},
-		{
 			"id": "email",
 			"type": "email",
 			"value": "kqwqks@gmail.com",
@@ -68,13 +61,6 @@
 			"value": "https://www.facebook.com/kqwqk",
 			"label": "",
 			"order": 4
-		},
-		{
-			"id": "button-1766024266632",
-			"type": "link",
-			"value": "",
-			"label": "",
-			"order": 5
 		}
 	],
 	"clockShowSeconds": false,
