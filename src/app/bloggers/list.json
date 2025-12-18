@@ -1,12 +1,5 @@
 [
 	{
-		"name": "阮一峰的网络日志",
-		"avatar": "/images/blogger/fe25259da8e3609b.png",
-		"url": "https://www.ruanyifeng.com/blog/archives.html",
-		"description": "经典必看，每周更新。无聊是看新闻、还是学习、还是拓展眼界，都是能其中获取到乐趣的。还有很多网友的每周留言。这就是 blog 的含金量。",
-		"stars": 5
-	},
-	{
 		"name": "nanda",
 		"url": "https://www.nan.fyi/",
 		"avatar": "https://www.nan.fyi/favicon.ico",
@@ -26,13 +19,6 @@
 		"avatar": "https://www.imrising.cn/images/logo/logo.webp",
 		"description": "网站样式很棒，虽然用的别人的模板，但是他用的很棒。是个初出茅庐的程序员。",
 		"stars": 3
-	},
-	{
-		"name": "無名小栈",
-		"url": "https://blog.imsyy.top/",
-		"avatar": "https://blog.imsyy.top/images/logo/logo.webp",
-		"description": "Risingle blog 的模板主人，或许是头像和网站风格不搭，显得没有 Risingle 的舒服。Github 热门项目还不少，一看就是爱折腾的人，就是不爱写 blog，没啥内容。01 年，挺年轻的，独立开发者？不知道经历了什么。",
-		"stars": 2
 	},
 	{
 		"name": "enpitsulin 铅笔",
@@ -63,13 +49,6 @@
 		"stars": 3
 	},
 	{
-		"name": "Tonsky",
-		"url": "https://tonsky.me/",
-		"avatar": "https://avatars.githubusercontent.com/u/285292?v=4",
-		"description": "一个过去的国外大神，忘了是什么时候发现它的，blog 依旧时不时更新。就是现在 blog 太刺眼了，不知道是不是故意的。",
-		"stars": 3
-	},
-	{
 		"name": "Cali",
 		"url": "https://cali.so/",
 		"avatar": "https://cali.so/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FPortrait.8d12f14a.png&w=96&q=75",
@@ -89,27 +68,6 @@
 		"avatar": "https://avatars.githubusercontent.com/u/1923260?v=4",
 		"description": "早期外国大神，在 Github,Facebook 工作过，现在在notion，资历老、项目多。blog 写成了 Dashboard 风格，蛮奇特的，但是 blog 并不多。",
 		"stars": 4
-	},
-	{
-		"name": "Cassie Evans's Blog",
-		"url": "https://www.cassie.codes/",
-		"avatar": "https://www.cassie.codes/images/avatar2.jpg",
-		"description": "彩色网站，真的很酷。并且还是位女士，真的很少见。GASP、SVG、动画很精美，但是没几篇内容，也算是高级 blog 的一种诅咒。在 Twitter 上也是名人。",
-		"stars": 4
-	},
-	{
-		"name": "Niracler 的博物志",
-		"url": "https://niracler.com/",
-		"avatar": "https://niracler.com/favicon.svg",
-		"description": "小透明，偶尔更新一篇blog。但是网站风格还是有特点的，可作为设计 blog 时的参考。",
-		"stars": 2
-	},
-	{
-		"name": "講評世界",
-		"url": "https://blog.moeyua.com/",
-		"avatar": "https://avatars.githubusercontent.com/u/45156493?v=4",
-		"description": "小透明，失踪人口。但 blog 网站样式有种字体的美，不知道怎么说。好像是影视飓风成员。",
-		"stars": 2
 	},
 	{
 		"name": "阿猫的博客",
