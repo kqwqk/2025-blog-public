@@ -42,25 +42,46 @@
 	"currentBackgroundImageId": "",
 	"socialButtons": [
 		{
+			"id": "button-1766060800499",
+			"type": "github",
+			"value": "https://github.com/kqwqk",
+			"label": "",
+			"order": 1
+		},
+		{
 			"id": "button-1765955818512",
 			"type": "x",
 			"value": "https://kqwqk.afilmory.art/",
-			"label": "Afilmory",
-			"order": 1
+			"label": "",
+			"order": 2
 		},
 		{
 			"id": "button-1766024180713",
 			"type": "facebook",
 			"value": "https://www.facebook.com/kqwqk",
 			"label": "",
-			"order": 2
+			"order": 3
 		},
 		{
 			"id": "button-1766060267077",
 			"type": "instagram",
 			"value": "https://newsnow.busiyi.world/c/hottest",
-			"label": "Newsnow",
-			"order": 3
+			"label": "",
+			"order": 4
+		},
+		{
+			"id": "button-1766060771864",
+			"type": "tg",
+			"value": "https://www.live-tennis.cn/zh/home",
+			"label": "",
+			"order": 5
+		},
+		{
+			"id": "button-1766060801490",
+			"type": "email",
+			"value": "kqwqk@icloud.com",
+			"label": "",
+			"order": 6
 		}
 	],
 	"clockShowSeconds": false,
