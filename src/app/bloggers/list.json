@@ -7,20 +7,6 @@
 		"stars": 5
 	},
 	{
-		"name": "Enji Kusnadi",
-		"url": "https://enji.dev/",
-		"avatar": "https://enji.dev/_next/image?url=%2Fassets%2Fimages%2Fme.png&w=1080&q=100",
-		"description": "第一个在设计样式上惊艳我的人，那时每逢推荐别人blog，我都会提这么一嘴。但这个不算她的blog 网站，只算它的线上简历，没有持续的内容，比较可惜。",
-		"stars": 3
-	},
-	{
-		"name": "Josh W. Comeau",
-		"url": "https://www.joshwcomeau.com/",
-		"avatar": "https://www.joshwcomeau.com/favicon.png",
-		"description": "John blog 更像是一个课程网站，每一篇文章都书写的很好，每次阅读都能吸收到新的东西。网站设计也恰到好处，工整、有趣。",
-		"stars": 5
-	},
-	{
 		"name": "nanda",
 		"url": "https://www.nan.fyi/",
 		"avatar": "https://www.nan.fyi/favicon.ico",
@@ -47,20 +33,6 @@
 		"avatar": "https://blog.imsyy.top/images/logo/logo.webp",
 		"description": "Risingle blog 的模板主人，或许是头像和网站风格不搭，显得没有 Risingle 的舒服。Github 热门项目还不少，一看就是爱折腾的人，就是不爱写 blog，没啥内容。01 年，挺年轻的，独立开发者？不知道经历了什么。",
 		"stars": 2
-	},
-	{
-		"name": "韩小韩博客",
-		"url": "https://www.vvhan.com/",
-		"avatar": "https://q1.qlogo.cn/g?b=qq&nk=1655466387&s=640",
-		"description": "网站很棒，内容多，头像也帅，不知道人帅不帅。就是这个错位滑动效果一直让我头疼，这个阻尼效果还写blog专业上了。。。一个插件导入的事情，啥时候他能把这个效果关掉就好了。挺想多看下他内容的，但是这个效果太头晕了。",
-		"stars": 3
-	},
-	{
-		"name": "Anthony Fu",
-		"url": "https://antfu.me/",
-		"avatar": "https://avatars.githubusercontent.com/u/11247099?v=4",
-		"description": "很厉害的一个人，好像还很年轻。经常在 b站活跃，开直播（看过）。我记得它几乎毕业就做了很多厉害的事情，vue 系列核心成员，似乎对他来说很轻松的事情。blog 多是英文，生活圈也是大神汇聚，真好。不怎么爱写blog，但相比来说已经算好的了。可以从他这窥探一些 vue \"上流社会\"",
-		"stars": 4
 	},
 	{
 		"name": "enpitsulin 铅笔",
@@ -102,13 +74,6 @@
 		"url": "https://cali.so/",
 		"avatar": "https://cali.so/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FPortrait.8d12f14a.png&w=96&q=75",
 		"description": "设计师，网站设计不错，但是 blog 内容很少。但厉害的是他已经自己开公司了，给别人设计网站，影石 Insta360 是他们设计的。很好的 blog 参考。他的 zolplay 网站跟 nanda 风格很像，不知道谁抄的谁。",
-		"stars": 4
-	},
-	{
-		"name": "Chrome Blog",
-		"url": "https://web.dev/blog?hl=zh-cn",
-		"avatar": "/images/blogger/2fe46db88bd43683.svg",
-		"description": "技术团队 blog，咨询、动态、故事。我觉得页面感受还不错。",
 		"stars": 4
 	},
 	{
@@ -182,38 +147,10 @@
 		"stars": 2
 	},
 	{
-		"name": "博客.cn",
-		"avatar": "https://xmind.design/favicon.ico",
-		"url": "https://loud-fear-11e.notion.site/eb29a49346a742989582723f950fcf0f?v=4b4f7b7d24274ba7853426c101a149d7",
-		"description": "好像是 XMind 的内部 blog notion，不确认，但里面的内容确实专业深刻，先收藏一波",
-		"stars": 3
-	},
-	{
-		"name": "KK",
-		"avatar": "https://avatars.githubusercontent.com/u/44634134?v=4",
-		"url": "https://kaiyi.cool/",
-		"description": "kk 是跟很厉害的人。突然看朋友圈想起他了，发现他是有 blog 的，虽然已经不维护了。但他的 blog 还残留一些好东西，或许对你有帮助。",
-		"stars": 3
-	},
-	{
 		"name": "猫普的精神世界",
 		"avatar": "https://maplezz.com/_astro/picture.DavLO-HP_1hhoaS.webp",
 		"url": "https://maplezz.com/",
 		"description": "通过 issue 发现的另外一个开源的，也是这几天开源的，好巧。液态玻璃感设计，是有这种感觉，挺好的，就是有的花。我还是挺喜欢的。内容从 25年开始。",
-		"stars": 3
-	},
-	{
-		"name": "手里有只毛毛虫",
-		"avatar": "https://www.krjojo.com/wp-content/uploads/2024/05/avatar.avif",
-		"url": "https://www.krjojo.com/",
-		"description": "网站很舒服，一位六边形战士的独立开发者。文章目录能一眼看完就好了，想翻点想看的比较不容易。",
-		"stars": 4
-	},
-	{
-		"name": "Honesty",
-		"avatar": "https://cdn.jsdelivr.net/gh/listener-He/images@default/202309111525908.jpeg",
-		"url": "https://blog.hehouhui.cn/",
-		"description": "折腾 blog 的后端，是个后端学习的榜样，折腾了这么多年。网站弄得还挺好的，就是加载内容有点慢。",
 		"stars": 3
 	},
 	{
@@ -228,20 +165,6 @@
 		"avatar": "https://ahzoo.cn/img/avatar.webp",
 		"url": "https://blog.ahzoo.cn/",
 		"description": "Z次元，后端开发，记录了很多后端研究。但折腾前端和 blog 还不少。把 blog 打理得有自己独特得舒适，实属难得",
-		"stars": 3
-	},
-	{
-		"name": "纸鹿摸鱼处",
-		"avatar": "https://weavatar.com/avatar/47c0f2e82b76d9b10eb3023df9e02e4e3fdbeaf5b74b842063f207971e7fbe7b?s=160",
-		"url": "https://blog.zhilu.site/",
-		"description": "棒棒的开源 blog 主，今天蹭了蹭他群友，🤣，给他多加一分🤣🤣🤣。",
-		"stars": 4
-	},
-	{
-		"name": "灯火不休时",
-		"avatar": "https://file.dhbxs.top/ylvwvjjs.jpg",
-		"url": "https://blog.dhbxs.top/",
-		"description": "群友，JAVAR，干净blog，让我看到几个人的影子。",
 		"stars": 3
 	}
 ]
