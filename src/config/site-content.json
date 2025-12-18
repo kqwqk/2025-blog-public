@@ -1,7 +1,7 @@
 {
 	"meta": {
 		"title": "KqwqK",
-		"description": "KqwqK 的个人博客，记录前端开发、探索、笔记。前端 UI 更新代码仓库。",
+		"description": "KqwqK 的个人博客",
 		"username": "KqwqK"
 	},
 	"theme": {
@@ -61,6 +61,20 @@
 			"value": "https://kqwqk.afilmory.art/",
 			"label": "Afilmory",
 			"order": 3
+		},
+		{
+			"id": "button-1766024180713",
+			"type": "facebook",
+			"value": "https://www.facebook.com/kqwqk",
+			"label": "",
+			"order": 4
+		},
+		{
+			"id": "button-1766024266632",
+			"type": "link",
+			"value": "",
+			"label": "",
+			"order": 5
 		}
 	],
 	"clockShowSeconds": false,
