@@ -57,17 +57,10 @@
 		},
 		{
 			"id": "button-1766060267077",
-			"type": "link",
+			"type": "instagram",
 			"value": "https://newsnow.busiyi.world/c/hottest",
 			"label": "Newsnow",
 			"order": 3
-		},
-		{
-			"id": "button-1766060323152",
-			"type": "link",
-			"value": "https://www.live-tennis.cn/zh/home",
-			"label": "live-tennis",
-			"order": 4
 		}
 	],
 	"clockShowSeconds": false,
