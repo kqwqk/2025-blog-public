@@ -7,18 +7,11 @@
 		"stars": 5
 	},
 	{
-		"name": "Emil Kowalski",
-		"url": "https://emilkowal.ski/",
-		"avatar": "https://emilkowal.ski/favicon.ico",
-		"description": "Blog 就干脆\"不设计\"，无装饰。技术就比较轻松一些，它更强调动画/交互。Vercel 员工，他的组件很好用，也很 vercel。",
-		"stars": 4
-	},
-	{
-		"name": "Risingle",
-		"url": "https://www.imrising.cn/",
-		"avatar": "https://www.imrising.cn/images/logo/logo.webp",
-		"description": "网站样式很棒，虽然用的别人的模板，但是他用的很棒。是个初出茅庐的程序员。",
-		"stars": 3
+		"name": "無名小栈",
+		"url": "https://blog.imsyy.top/",
+		"avatar": "https://blog.imsyy.top/images/logo/logo.webp",
+		"description": "Risingle blog 的模板主人，或许是头像和网站风格不搭，显得没有 Risingle 的舒服。Github 热门项目还不少，一看就是爱折腾的人，就是不爱写 blog，没啥内容。01 年，挺年轻的，独立开发者？不知道经历了什么。",
+		"stars": 2
 	},
 	{
 		"name": "enpitsulin 铅笔",
@@ -35,13 +28,6 @@
 		"stars": 3
 	},
 	{
-		"name": "秋夜灯雨",
-		"url": "https://blog.lierhua.top/",
-		"avatar": "https://blog.lierhua.top/images/web/yyqda3.svg",
-		"description": "看名字，就知道是过去的残党了。但是我挺喜欢他的设计的，页面清晰，一股书生气。虽然是老人，但能追溯的过去并不多。",
-		"stars": 3
-	},
-	{
 		"name": "BlogFinder",
 		"url": "https://bf.zzxworld.com/",
 		"avatar": "https://bf.zzxworld.com/images/favicon.png",
@@ -54,75 +40,5 @@
 		"avatar": "https://cali.so/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FPortrait.8d12f14a.png&w=96&q=75",
 		"description": "设计师，网站设计不错，但是 blog 内容很少。但厉害的是他已经自己开公司了，给别人设计网站，影石 Insta360 是他们设计的。很好的 blog 参考。他的 zolplay 网站跟 nanda 风格很像，不知道谁抄的谁。",
 		"stars": 4
-	},
-	{
-		"name": "Huozhi",
-		"url": "https://huozhi.im/",
-		"avatar": "https://avatars.githubusercontent.com/u/4800338?v=4",
-		"description": "极简主义者，网站真的极简，但是感觉也不差。内容不多，当你觉得不知道怎么设计blog，或者设计的不好时，看看他。",
-		"stars": 3
-	},
-	{
-		"name": "Brian Lovin",
-		"url": "https://brianlovin.com/",
-		"avatar": "https://avatars.githubusercontent.com/u/1923260?v=4",
-		"description": "早期外国大神，在 Github,Facebook 工作过，现在在notion，资历老、项目多。blog 写成了 Dashboard 风格，蛮奇特的，但是 blog 并不多。",
-		"stars": 4
-	},
-	{
-		"name": "阿猫的博客",
-		"url": "https://ameow.xyz/",
-		"avatar": "https://ameow.xyz/upload/favicon.png",
-		"description": "可爱的网站，一直在更新他的猫鱼周刊。",
-		"stars": 3
-	},
-	{
-		"name": "pseudoyu",
-		"url": "https://www.pseudoyu.com/",
-		"avatar": "https://www.pseudoyu.com/avatar.webp",
-		"description": "区块链开发者，在 Monad 区块链倒腾了一段时间。网站长得跟 Anthony 一模一样。嘴上一直念叨着他的学姐老婆。应该也挺厉害的。",
-		"stars": 3
-	},
-	{
-		"name": "季节记忆",
-		"avatar": "https://www.seamory.com/api/storage/2024112814523200000001349b3aa3c2",
-		"url": "https://www.seamory.com/",
-		"description": "好像是为后端/嵌入式？2025 年初建立的 blog，无 UI 设计。但少有后端人显露 blog，应当勉励的。",
-		"stars": 1
-	},
-	{
-		"name": "微尔微",
-		"avatar": "https://www.vio.vin/apple-touch-icon.png",
-		"url": "https://www.vio.vin/",
-		"description": "23 年新晋散修，如他所说，一天倒腾一些奇怪的东西。应该是以后端为主，喜欢完一些硬件。静森系 blog，25年 blog 稳定输出。",
-		"stars": 2
-	},
-	{
-		"name": "搬砖日记",
-		"avatar": "https://banzhuanriji.com/img/icon.ico",
-		"url": "https://banzhuanriji.com/",
-		"description": "白底黑字。但是打理得挺好的。应该是 Andriod 开发者，24 年开始分享各种探索。摸不清根底。",
-		"stars": 2
-	},
-	{
-		"name": "猫普的精神世界",
-		"avatar": "https://maplezz.com/_astro/picture.DavLO-HP_1hhoaS.webp",
-		"url": "https://maplezz.com/",
-		"description": "通过 issue 发现的另外一个开源的，也是这几天开源的，好巧。液态玻璃感设计，是有这种感觉，挺好的，就是有的花。我还是挺喜欢的。内容从 25年开始。",
-		"stars": 3
-	},
-	{
-		"name": "ElysiumStack",
-		"avatar": "https://www.elysium-stack.cn/upload/b4136969-e1a1-44b9-833f-36e54392f018.png",
-		"url": "https://www.elysium-stack.cn/",
-		"description": "UI 设计师 blogger，少见，blog 设计的很棒。一股游戏感铺面而来，25 年开始的内容。",
-		"stars": 3
-	},
-	{
-		"name": "十玖八柒",
-		"avatar": "https://ahzoo.cn/img/avatar.webp",
-		"url": "https://blog.ahzoo.cn/",
-		"description": "Z次元，后端开发，记录了很多后端研究。但折腾前端和 blog 还不少。把 blog 打理得有自己独特得舒适，实属难得",
-		"stars": 3
 	}
 ]
