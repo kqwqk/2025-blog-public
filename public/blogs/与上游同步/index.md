@@ -1,53 +1,85 @@
-“用 GitHub Desktop 进行同步上游等操作是比较方便的选择，以下整理了下，以便操作查看。”
-适用于：
+> 适用于：  
+> - 用 GitHub Desktop 管理代码  
+> - fork 了 `YYsuni/2025-blog-public` 并自己改内容  
+> - 上游更新后，想**保留自己改动**并**同步最新代码**[1]
 
-用 GitHub Desktop 管理代码
-fork 了 YYsuni/2025-blog-public 并自己改内容
-上游更新后，想保留自己改动并同步最新代码
-1. 给仓库加上“上游”遥控器（只做一次）
-打开 GitHub Desktop 官网下载：https://desktop.github.com
-顶部菜单 → Repository → Open in Command Prompt（或 Git Bash）
-输入下面命令后回车：
+# 1. 给仓库加上“上游”遥控器（只做一次）[1]
 
+i. 打开 GitHub Desktop 官网下载：  
+https://desktop.github.com/[1]
+
+ii. 顶部菜单 → Repository → Open in Command Prompt（或 Git Bash）[1]
+
+iii. 输入下面命令后回车：[1]
+
+```bash
 git remote add upstream https://github.com/YYsuni/2025-blog-public.git
-如果看到 error: remote upstream already exists. 说明早就加好了，直接下一步。
+```
 
-2. 把上游最新代码拉到本地
+如果看到 `error: remote upstream already exists.` 说明早就加好了，直接下一步。[1]
 
+# 2. 把上游最新代码拉到本地[1]
+
+```bash
 git fetch upstream
-出现 remote: Counting objects... 字样就是正在下载，等他完成。
+```
 
-看看上游最新提交是啥：
+出现 `remote: Counting objects...` 字样就是正在下载，等它完成。[1]
 
+看看上游最新提交是啥：[1]
 
+```bash
 git log upstream/main --oneline -5
-3. 合并到本地 main 分支
+```
 
+# 3. 合并到本地 main 分支[1]
+
+```bash
 git merge upstream/main
-顺利：提示 Auto-merging ... → 直接跳到第 5 步推送。
-冲突：提示 Automatic merge failed; fix conflicts → 看第 4 步。
-4. 解决冲突（仅限冲突时）
-打开 GitHub Desktop，左侧会显示冲突文件和会弹出必选文件，点 ** → Open in Editor**（安装 VS Code：https://code.visualstudio.com/download ）
+```
 
-在 VS Code 中将界面切换为中文，只需安装官方“Chinese (Simplified) Language Pack”扩展即可，步骤如下：
-1. 打开 VS Code
-2. 左侧活动栏点击“扩展”图标（或按 Ctrl+Shift+X）
-3. 搜索框输入：Chinese
-4. 找到 “Chinese (Simplified) Language Pack for Visual Studio Code” → 点击“安装”
-5. 安装完成后，右下角会弹出提示“重启以启用中文”，点击“重启”即可。
-找到类似下面的标记：
+- 顺利：提示 `Auto-merging ...` → 直接跳到第 5 步推送。  
+- 冲突：提示 `Automatic merge failed; fix conflicts` → 看第 4 步。[1]
 
-采用当前更改|采用传入的更改|保留双方更改|比较变更
+# 4. 解决冲突（仅限冲突时）[1]
 
+i. 打开 GitHub Desktop，左侧会显示冲突文件，会弹出必选文件，点 Open in Editor（可安装 VS Code：https://code.visualstudio.com/download）。[1]
+
+在 VS Code 中将界面切换为中文，只需安装官方 “Chinese (Simplified) Language Pack” 扩展即可，步骤如下：  
+1. 打开 VS Code  
+2. 左侧活动栏点击“扩展”图标（或按 Ctrl+Shift+X）  
+3. 搜索框输入：Chinese  
+4. 找到 “Chinese (Simplified) Language Pack for Visual Studio Code” → 点击“安装”  
+5. 安装完成后，右下角会弹出提示“重启以启用中文”，点击“重启”即可。[1]
+
+ii. 找到类似下面的标记：[1]
+
+```text
+采用当前更改 | 采用传入的更改 | 保留双方更改 | 比较变更
+```
+
+```text
 <<<<<<< HEAD
 ...你原来的内容...
 =======
 ...上游的新内容...
 >>>>>>> upstream/main
-把标记删掉，保留你想要的内容，保存文件。
-5. 推回自己的 GitHub
-在 Desktop 右边点击 Push origin（或命令行 git push origin main）。
-推送成功后，打开网页版你自己的仓库，刷新看到：
-This branch is even with YYsuni:main.
+```
 
-就说明完全同步啦！
+iii. 把标记删掉，保留你想要的内容，保存文件。[1]
+
+# 5. 推回自己的 GitHub[1]
+
+i. 在 Desktop 右边点击 Push origin（或命令行）：[1]
+
+```bash
+git push origin main
+```
+
+ii. 推送成功后，打开网页版你自己的仓库，刷新看到：[1]
+
+> This branch is even with `YYsuni:main`.[1]
+
+就说明完全同步啦！[1]
+
+[1](https://www.hdxiaoke.top/blog/GitHub-Desktop)
